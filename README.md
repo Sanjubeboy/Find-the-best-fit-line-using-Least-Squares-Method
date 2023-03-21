@@ -26,7 +26,7 @@ RegisterNumber:  212220040144
 ```
 
 ## Output:
-![best fit line](sam.png)
+![best fit line](output.png)
 
 
 ## Result:
